@@ -1,4 +1,4 @@
-Template created! To get started run:
+Windows example
 
 ```bash
 docker build . -t rust_cross_compile/windows
